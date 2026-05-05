@@ -1,0 +1,12 @@
+body {
+  color: blanchedalmond;
+  background-color: coral;
+}
+.layout2 {
+  display: flex;
+  justify content:space around;
+  flex-direction: row-reverse;
+  gap: 16px;
+}
+
+
